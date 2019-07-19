@@ -1,0 +1,128 @@
+body{
+
+	padding:0;
+	font-family:helvetica,arial,sans-serif;
+	background-image:url("a3.jpg");
+	background-repeat:no-repeat;
+	font-family:arial;
+}
+#a{
+
+	font-size:25px;
+	background-color:#ffe6ff;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding:0px;
+	margin-bottom:20px;
+}
+#m1{
+	border-style: solid;
+	background-color:#ffe6ff 95%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m2{
+	border-style: solid;
+	background-color:#ffe6ff 95%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m3{
+		border-style: solid;
+	background-color:#ffe6ff 95%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m4{
+	border-style: solid;
+	background-color:#ffe6ff 10%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m5{
+		border-style: solid;
+	background-color:#ffe6ff 10%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m6{
+		border-style: solid;
+	background-color:#ffe6ff 10%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m7{
+		border-style: solid;
+	background-color:#ffe6ff 50%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m8{
+		border-style: solid;
+	background-color:#ffe6ff 50%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#m9{
+		border-style: solid;
+	background-color:#ffe6ff 50%;
+	border-width: 2px 2px 2px 2px;
+	border-radius:10px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-top:50px;
+	float:left;
+	margin:5px;
+}
+#a1{
+	margin-left:180px;
+	margin-right:180px;
+}
+#a2{
+	margin-left:180px;
+	margin-right:180px;
+}
+#a3{
+	margin-left:180px;
+	margin-right:180px;
+}
